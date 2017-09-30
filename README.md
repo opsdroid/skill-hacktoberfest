@@ -1,6 +1,6 @@
 # opsdroid skill hello
 
-A skill for [opsdroid](https://github.com/opsdroid/opsdroid) to comment [Hacktoberfest]() messages on new PRs.
+A skill for [opsdroid](https://github.com/opsdroid/opsdroid) to comment [Hacktoberfest](https://hacktoberfest.digitalocean.com/) messages on new PRs.
 
 ## Requirements
 
