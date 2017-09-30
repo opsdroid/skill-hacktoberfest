@@ -1,4 +1,4 @@
-# opsdroid skill hello
+# opsdroid skill hacktoberfest
 
 A skill for [opsdroid](https://github.com/opsdroid/opsdroid) to comment [Hacktoberfest](https://hacktoberfest.digitalocean.com/) messages on new PRs.
 
