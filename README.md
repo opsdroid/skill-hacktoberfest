@@ -25,6 +25,3 @@ When a PR is opened opsdroid will comment on it.
 >
 > opsdroid: Thanks @user! This PR counts towards Hacktoberfest so make sure you sign up.
 
-## License
-
-GNU General Public License Version 3 (GPLv3)
